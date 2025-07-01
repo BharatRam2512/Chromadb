@@ -1,0 +1,8 @@
+STEP1: Creating A Virtual Environment
+First lets create a virtual environment using the command below. Make sure you are in a project directory(folder) you want to use for the content provided in this article.
+
+STEP2: Activate Virtual Environment
+Now that we have the virtual environment created, let’s move on to activating it. Use the second command.
+
+STEP3: Installing ChromaDB
+To install ChromaDB, use the 3rd command.
