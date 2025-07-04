@@ -15,7 +15,9 @@ collection.add(
     ]
 )
 results=collection.query(
-    query_texts=['what is citrus fruit'], n_results=2, where={'type' : 'citrus'}
+    query_texts=['what is citrus fruit'], 
+    n_results=2, 
+    where={'type' : 'citrus'}
 )
 
 print(results['documents'][0])
